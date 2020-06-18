@@ -1,6 +1,8 @@
 # play-chess-in-excel
 Upload these VBA files to any workbook and start playing chess, today!
 
+![alt text](https://github.com/matthew-webber/play-chess-in-excel/blob/master/preview.png?raw=true)
+
 ## Who It's For
 This can be great if you're playing chess via a shared workbook in the cloud or on a network drive.  It's also pretty handy if you're playing chess via e-mail -- just copy+paste the board to your favorite e-mail client and send!  Algebraic notation included for ease of communication.
 
